@@ -1,5 +1,6 @@
-# Lap-trinh-nang-cao
+# Lập trình nâng cao - Lập trình Arduino điều khiển xe bằng remote và IR1838
 Điều khiển xe bằng remote và IR1838
+
 I: Thiết bị cần chuẩn bị:
 1. Mạch Arduino Uno R3: 1 cái
 2. Mạch điều khiển động cơ DC L298N: 1 cái
